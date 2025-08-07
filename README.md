@@ -1,12 +1,23 @@
-# 👋 Hi, I'm Victor
+<!-- Banner com título -->
+<h1 align="center">Data Engineer | Python | SQL | Airflow | DBT | MSc in Information Technology</h1>
 
-Welcome to my GitHub! I'm a data engineer and AI project lead with over 10 years of experience turning complex data into scalable, intelligent solutions. My background blends software engineering, data architecture, and applied machine learning — with a strong focus on real-world impact.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSPO-ffc72c?style=for-the-badge"/>
+</p>
+
+
+Hello, welcome to my GitHub! I'm a data engineer and AI project lead with over 10 years of experience turning complex data into scalable, intelligent solutions. My background blends software engineering, data architecture, and applied machine learning.
 
 ## 🚀 About Me
 
 - 💻 Bachelor's in Computer Science  
 - 🎓 Postgraduate in Software Engineering  
-- 📚 Professional Master's in Informatics (Machine Learning in Healthcare)  
+- 📚 Master's in Informatics (Machine Learning in Healthcare)  
 - 🧠 CSPO Certified | Agile Practitioner  
 - 🌍 Fluent in English | Collaborating with international clients
 
@@ -18,7 +29,7 @@ I currently work at **SiDi**, leading AI initiatives involving NLP, OCR, and tra
 - Python • SQL • PL/SQL • Git • Docker • Jupyter • Streamlit
 
 **Data Engineering**  
-- ETL / ELT • DBT • Apache Airflow • Oracle Database • Data Modeling • DataOps
+- ETL / ELT • DBT • Apache Airflow • Oracle Database • Data Modeling • DataOps • Pyspark
 
 **AI & ML**  
 - NLP • OCR • Pattern Recognition • Model Evaluation (BLEU, F1) • Machine Learning
@@ -26,13 +37,9 @@ I currently work at **SiDi**, leading AI initiatives involving NLP, OCR, and tra
 **Project Management**  
 - Agile • Scrum • PMBOK • CSPO • Stakeholder Communication
 
-## 📈 Featured Projects
-
-Coming soon — I’m currently organizing and publishing selected projects from my work in healthcare, biometrics, and intelligent mobility. Stay tuned!
-
 ## 📫 Let's Connect
 
-Feel free to explore my repositories, reach out via [LinkedIn](https://www.linkedin.com/in/seu-perfil) or drop me a message if you'd like to collaborate or talk data.
+Feel free to explore my repositories, reach out via [LinkedIn](https://www.linkedin.com/in/victor-monteiro-36a35949/) or drop me a message if you'd like to collaborate or talk data.
 
 ---
 
