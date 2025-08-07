@@ -1,91 +1,39 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/724/1*UsYsbsZd-CE3CTkqrwRIwg.jpeg" >
-</p>
+# 👋 Hi, I'm Victor
 
-[<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonfreitas/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonfreitas/)
-</br>
+Welcome to my GitHub! I'm a data engineer and AI project lead with over 10 years of experience turning complex data into scalable, intelligent solutions. My background blends software engineering, data architecture, and applied machine learning — with a strong focus on real-world impact.
 
-###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
-- 🧭 Eu trabalho na área de Ciência de Dados desde 2013 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
-- 👩🏻‍💻 Sou Cientista de Dados SR no Samsung Institute for Development Informatics (SIDI)
-- 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
-- 📝 Doutorando, Mestre e Graduado em Ciência da Computação
-- 👨‍💻 Sou co-fundador do canal de Data Science [Synapse Data Science](https://linktr.ee/synapseds)
-- 👨‍💼 Sou instrutor de Data Science no [Stack Tecnnologias](https://youtu.be/dnsdPrhWWec)  
-- 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
-- 📚 Escritor de livros, artigos em periódicos e conferências nacionais e internacionais nas seguintes áreas: Ciência de Dados, Inteligência Artificial, Aprendizado de Máquina, Bancos de Dados, Sistemas Multiagentes, Séries Temporais, Trajetórias, Sensoriamento Remoto, Processamento Digital de Imagens, Geoprocessamento e Meteorologia.
-- 🧠 Venho aprimorando constantemente minhas habilidades
-<br/>
+## 🚀 About Me
 
-### Linguagens e Ferramentas:
+- 💻 Bachelor's in Computer Science  
+- 🎓 Postgraduate in Software Engineering  
+- 📚 Professional Master's in Informatics (Machine Learning in Healthcare)  
+- 🧠 CSPO Certified | Agile Practitioner  
+- 🌍 Fluent in English | Collaborating with international clients
 
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+I currently work at **SiDi**, leading AI initiatives involving NLP, OCR, and traffic pattern analysis. I help teams build robust data pipelines, optimize models, and deploy scalable solutions using tools like **Python**, **SQL**, **Docker**, **Airflow**, and **DBT**.
 
-<img align="left" alt="Java" width="26px" 
-src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
+## 🛠️ Tech Stack
 
-<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+**Languages & Tools**  
+- Python • SQL • PL/SQL • Git • Docker • Jupyter • Streamlit
 
-<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+**Data Engineering**  
+- ETL / ELT • DBT • Apache Airflow • Oracle Database • Data Modeling • DataOps
 
-<img align="left" alt="TensorFlow" width="26px" src="http://www.lapix.ufsc.br/wp-content/uploads/2018/04/q8sc1KuZ_400x400.jpg" />
+**AI & ML**  
+- NLP • OCR • Pattern Recognition • Model Evaluation (BLEU, F1) • Machine Learning
 
-<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
+**Project Management**  
+- Agile • Scrum • PMBOK • CSPO • Stakeholder Communication
 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+## 📈 Featured Projects
 
-<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />
+Coming soon — I’m currently organizing and publishing selected projects from my work in healthcare, biometrics, and intelligent mobility. Stay tuned!
 
-<img align="left" alt="Spark" width="26px" src="https://miro.medium.com/max/580/1*I7bOyAqdM489ct9eDtf89A.png" />
+## 📫 Let's Connect
 
-<img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
+Feel free to explore my repositories, reach out via [LinkedIn](https://www.linkedin.com/in/seu-perfil) or drop me a message if you'd like to collaborate or talk data.
 
-<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+---
 
-<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
-
-<img align="left" alt="Folium" width="26px" src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" />
-
-<img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
-
-<img align="left" alt="Streamlit" width="26px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
-
-<img align="left" alt="PostgreeSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/300/1*fY5KPXK0C6csHKhnXkQQ8g.png" />
-
-<img align="left" alt="Scrapy" width="26px" src="https://clasense4.files.wordpress.com/2015/11/scrapy-big-logo.png" />
-
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-
-<!--<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
--->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-
-<br/>
-<br/>
-
-### Artigos Científicos 📝:
-- [Crime Monitor: Monitoring Criminals from Trajectory Data](https://www.scitepress.org.pdf) 
-- [Using Deep Learning for trajectory Classification in imbalanced dataset](https://www.scitepress.org.pdf) 
-- [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
-- [Livro: Abordagem de Mineração de Dados para Previsão da Velocidade do Vento](https://amzn.to/3dEjJB6)
-- [Wind Speed Forecating: A Review](http://www.ijera.com/papers/Vol8_issue1/Part-1/B0801010409.pdf)
-- [Multiagent System for Image Mining](https://www.intechopen.com/books/multi-agent-systems/multiagent-system-for-image-mining)
-- [AgentGeo: Multi-Agent System of Satellite Images Mining](https://ieeexplore.ieee.org/document/7459619)
-- [Uma análise comparativa de dados de mapas de NDVI gerados através de imagens de METEOSAT-10 e LANDSAT-8](https://proceedings.science/sbsr/papers/uma-analise-comparativa-de-dados-de-mapas-de-ndvi-gerados-atraves-de-imagens-de-meteosat-10-e-landsat-8)
-- [Livro: Abordagem Multiagente para mineração de imagens de satélite](https://www.researchgate.net/publication/321225457_Abordagem_multiagente_para_mineracao_de_imagens_de_satelite)
-- [Sistemas Multiagente para Mineração de Imagens de Satélite](http://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2015/06.15.16.55.24/doc/p1649.pdf)
-- [Agentes de Mineração de Imagens de Satélite](http://www.geoinfo.info/proceedings_geoinfo2014.split/Paper09-S-p14.pdf)
-
-
-<br/>
-<br/>
-
-
-<img align="left" alt="Atualizações Github" src="https://github-readme-stats.vercel.app/api?username=nickssonarrais&show_icons=true&hide_border=true" />
-
-[<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
-</br>
+Thanks for stopping by!
